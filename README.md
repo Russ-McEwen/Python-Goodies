@@ -7,7 +7,6 @@
 ### Key Details:
 - **Language:** 100% Python
 - **Status:** Public repository, actively maintained (last updated May 30, 2026)
-- **Created:** 4 days ago
 - **Repository Size:** 12 KB
 - **License:** None specified
 
